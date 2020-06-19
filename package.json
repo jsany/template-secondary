@@ -1,7 +1,7 @@
 {
-  "name": "template-secondary",
-  "version": "1.0.0",
-  "description": "secondary project(slave)",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}}}",
+  "description": "{{projectDescription}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
